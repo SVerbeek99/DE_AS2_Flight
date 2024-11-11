@@ -1,5 +1,3 @@
-version: '3.9'
-
 volumes:
   spark-data:
     driver_opts:
